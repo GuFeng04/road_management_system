@@ -26,13 +26,13 @@
 
 选择“退出程序”，则会退出程序。
 
-![img](https://github.com/GuFeng04/img-folder/raw/main/road_manage_system/img1.png)
+![img](https://gitee.com/gufengspace/github_img/raw/master/img/道路管理1.png)
 
-***\*详细设计\****
+**详细设计**
 
 （1）模拟地图：
 
-![img](https://github.com/GuFeng04/img-folder/raw/main/road_manage_system/img2.png)
+![道路管理2](https://gitee.com/gufengspace/github_img/raw/master/img/%E9%81%93%E8%B7%AF%E7%AE%A1%E7%90%862.png)
 
 （2）data.txt文件：
 
